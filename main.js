@@ -1,5 +1,5 @@
 const APP_ID = "f72873d549ba4846808081be9f84b1a1"
-const TOKEN = "006f72873d549ba4846808081be9f84b1a1IAADjQprNTlXa9vYj7jiRfHr18yxDsM9VXjBNOUN7uF1YZJkoLQAAAAAEADbqsx0qOAAYgEAAQCn4ABi"
+const TOKEN = "006f72873d549ba4846808081be9f84b1a1IACLjDTetclNZk2aME1Kd9mMF0xu+GH54ZhHu5ro133EYpJkoLQAAAAAEAA1a+TAb88DYgEAAQBozwNi"
 const CHANNEL = "Group video chat"
 
 const client = AgoraRTC.createClient({ mode: 'rtc', codec: 'vp8' })
